@@ -1,0 +1,8 @@
+2024-05-08 18:26:35,655::WARNING::this is warn msg
+2024-05-08 18:26:35,655::ERROR::this is error msg
+2024-05-08 18:26:35,655::CRITICAL::this is critical msg
+2024-05-08 18:27:41,940::DEBUG::this is debug msg
+2024-05-08 18:27:41,940::INFO::this is info msg
+2024-05-08 18:27:41,940::WARNING::this is warn msg
+2024-05-08 18:27:41,940::ERROR::this is error msg
+2024-05-08 18:27:41,940::CRITICAL::this is critical msg

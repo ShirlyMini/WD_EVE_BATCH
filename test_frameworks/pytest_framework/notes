@@ -1,0 +1,30 @@
+Install pytest pakage
+--> pip install pytest
+
+class---> Test Suite(collection of test cases)
+method -- Test cases
+func---independent Test cases
+
+## filename and classname - Test*
+## method name or function - test*
+
+#### to run test cases
+
+pytest <filename>
+pytest -v -s Test_TS1.py
+pytest -v Test_TS1.py::test_tc2--> to run individual test case
+
+##class method format
+pytest -v Test_TS2.py
+pytest -v -s Test_TS2.py
+pytest -v -s Test_TS2.py::Test_Tsuite2::test_tc2
+
+###execute based on substring
+pytest -v -s -k "tc1"
+
+#### grouping
+pytest -v -s -m "regression"
+
+
+####skip
+

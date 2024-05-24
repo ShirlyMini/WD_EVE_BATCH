@@ -1,0 +1,5 @@
+2024-05-15 19:54:31,700::INFO::TC1::test_verify_launch_page_title
+2024-05-15 19:54:32,006::INFO::TC1::test_verify_launch_page_title=PASSED
+2024-05-15 19:54:51,429::INFO::TC2::test_verify_dsahbord_page_title
+2024-05-15 19:54:55,358::INFO::Logging into dashboard....
+2024-05-15 19:54:57,099::INFO::TC2::test_verify_dsahbord_page_title=PASS

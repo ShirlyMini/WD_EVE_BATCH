@@ -1,0 +1,5 @@
+2024-05-08 18:31:58,912::DEBUG::this is debug msg
+2024-05-08 18:31:58,912::INFO::this is info msg
+2024-05-08 18:31:58,913::WARNING::this is warn msg
+2024-05-08 18:31:58,913::ERROR::this is error msg
+2024-05-08 18:31:58,913::CRITICAL::this is critical msg
